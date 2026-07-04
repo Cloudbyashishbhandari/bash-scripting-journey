@@ -1,5 +1,5 @@
-SOURCE_FILE="./Backup-a-single-file.sh"
-BACKUP_FILE="./Backup-file.sh"
+SOURCE_FILE="./application.log"
+BACKUP_FILE="./Backup-file.txt"
 while true; do
     cp $SOURCE_FILE $BACKUP_FILE;
     USAGE=$(df -h | grep /dev/sda | awk 'NR==2 {print $5 }' | sed 's/%//')
