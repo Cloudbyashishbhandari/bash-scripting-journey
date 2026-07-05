@@ -1,0 +1,10 @@
+=======================
+SYSTEM REPORT
+=======================
+Hostname: LAPTOP-6U41OKRP
+Current User: ashish_bhandari
+Kernel Version: 6.6.87.2-microsoft-standard-WSL2
+CPU Usage: 0.8
+Memory Usage: 517Mi
+Disk Usage: 11G
+System Uptime:  06:18:17 up  1:08,  1 user,  load average: 0.00, 0.03, 0.01
