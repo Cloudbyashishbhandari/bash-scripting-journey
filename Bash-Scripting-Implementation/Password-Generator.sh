@@ -1,0 +1,1 @@
+tr -dc "A-Z0-9a-z" < /dev/urandom | head -c 20 | xargs -0 echo -e "\n"
